@@ -69,6 +69,17 @@ myj_prompts_library/
 4. 推送到分支 (`git push origin feature/AmazingPrompt`)
 5. 开启一个 Pull Request
 
+## 🔗 推荐资源
+
+### Vibe Coding 中文教程
+
+[![Vibe Coding CN](https://img.shields.io/badge/Vibe_Coding-中文教程-green?logo=github)](https://github.com/2025Emma/vibe-coding-cn)
+
+一个非常优秀的 Vibe Coding 教程，帮助你更好地理解和使用 AI 辅助编程。强烈推荐！
+
+- 仓库地址: [https://github.com/2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn)
+- 内容涵盖: AI 辅助编程最佳实践、Prompt 工程技巧、实战案例
+
 ## 📄 许可证
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
