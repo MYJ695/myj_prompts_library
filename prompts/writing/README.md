@@ -4,6 +4,7 @@
 
 ## 📋 提示词列表
 
+- `academic-paper-communication-engineering.md` - 通信工程学术论文写作助手（工科硕士论文）
 - `article-writing.md` - 文章撰写提示词
 - `content-polish.md` - 内容润色提示词
 - `title-generation.md` - 标题生成提示词
@@ -11,4 +12,4 @@
 
 ## 💡 使用建议
 
-根据写作类型和目标受众选择合适的提示词模板。
+根据写作类型和目标受众选择合适的提示词模板。对于学术论文写作，特别是通信工程、硬件实现等工科领域，推荐使用学术论文写作助手。
